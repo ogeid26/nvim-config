@@ -1,0 +1,11 @@
+require("user.alpha")
+require("user.bufferline")
+require("user.keymaps")
+require("user.lualine")
+require("user.nvim-tree")
+require("user.options")
+require("user.plugins")
+require("user.telescope")
+require("user.treesitter")
+
+vim.cmd([[colorscheme base16-tomorrow-night]])
